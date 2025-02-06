@@ -21,7 +21,6 @@ I'm a **Data Engineer** with experienced in designing, building, and optimizing 
 ### Big Data & Orchestration
 - **Apache Spark**: Distributed data processing and transformations.
 - **Apache Airflow**: Orchestrating and scheduling complex workflows.
-- **Apache Kafka**: Real-time data streaming and event-driven architectures.
 
 ### DevOps & CI/CD
 - **Docker**: Containerization for consistent deployment environments.
@@ -37,7 +36,7 @@ I'm a **Data Engineer** with experienced in designing, building, and optimizing 
 
 ### 🏗️ End-to-End Data Pipeline using Apache Airflow & Snowflake
 
-**Tech Stack:** Python, Apache Airflow, Snowflake, AWS S3, Terraform
+**Tech Stack:** Python, Apache Airflow, Snowflake, AWS S3
 
 - Built a **fully automated ETL pipeline** for ingesting and transforming large-scale datasets.
 - Implemented **orchestration using Airflow DAGs** and data warehousing in **Snowflake**.
