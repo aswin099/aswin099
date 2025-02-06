@@ -17,7 +17,7 @@ I'm a Data Engineer specializing in cloud-based ETL workflows, scalable data pip
 - Designed an ETL pipeline using Airflow & Snowflake for large-scale data ingestion.
 - Automated deployment with Terraform & GitHub Actions.
 
-### ⚡ Real-Time Data Streaming (Kafka & Spark)
+### ⚡ Real-Time Data Streaming (Spark)
 - Developed a real-time data processing pipeline with Kafka & Spark Streaming.
 - Stored and analyzed processed data in Azure Data Lake.
 
