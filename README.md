@@ -14,10 +14,12 @@ I'm a Data Engineer specializing in cloud-based ETL workflows, scalable data pip
 ## 📌 Featured Projects
 
 ### 🚀 Data Pipeline Automation (Airflow & Snowflake)
+
 - Designed an ETL pipeline using Airflow & Snowflake for large-scale data ingestion.
 - Automated deployment with Terraform & GitHub Actions.
 
 ### ⚡ Real-Time Data Streaming (Spark)
+
 - Developed a real-time data processing pipeline with Kafka & Spark Streaming.
 - Stored and analyzed processed data in Azure Data Lake.
 
@@ -28,16 +30,13 @@ I'm a Data Engineer specializing in cloud-based ETL workflows, scalable data pip
 - Designed a **CI/CD workflow** to automate **data pipeline deployment** on Kubernetes.
 - Used **GitHub Actions** to trigger deployments and **Terraform** for infrastructure as code.
 
-
-
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aswin-ravichandran06/)
-- 📧 [Email](mailto\:aswin.ravichandran06@gmail.com)
+- 📧 [Email](mailto:aswin.ravichandran06@gmail.com)
 - 🌐 [Portfolio](#) (Coming Soon!)
 
 🚀 **Let's build something amazing together!**
-
 
 <!--
 **aswin1818/aswin1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
