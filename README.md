@@ -1,58 +1,29 @@
 # Hi there, I'm Aswin Ravichandran! 🚀
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Data Engineer** with experienced in designing, building, and optimizing **data pipelines, cloud-based ETL workflows, and scalable data infrastructure**. I specialize in **Azure, AWS, GCP, SQL, Python, Spark, Airflow, Snowflake, and Databricks**. Passionate about **real-time data processing, automation, and DevOps for data workflows**.
+I'm a Data Engineer specializing in cloud-based ETL workflows, scalable data pipelines, and real-time data processing. Skilled in Python, SQL, Spark, Airflow, and Snowflake, with expertise in Azure, AWS, and GCP.
 
-## Skills & Technologies
+## ⚡ Skills & Technologies
 
-### Programming & Query Languages
-- **Python**: Proficient in scripting, data processing, and automation.
-- **SQL**: Advanced querying, optimization, and database design.
-- **Bash**: Skilled in shell scripting for automation and system tasks.
-
-### Cloud & Data Platforms
-- **Azure**: Data Lake, Synapse, and real-time data processing.
-- **AWS**: S3, Redshift, and Lambda for serverless data workflows.
-- **GCP**: BigQuery, Dataflow, and Pub/Sub for scalable data solutions.
-- **Snowflake**: Data warehousing, optimization, and Snowpipe for ETL.
-- **Databricks**: Unified analytics platform for big data processing.
-
-### Big Data & Orchestration
-- **Apache Spark**: Distributed data processing and transformations.
-- **Apache Airflow**: Orchestrating and scheduling complex workflows.
-
-### DevOps & CI/CD
-- **Docker**: Containerization for consistent deployment environments.
-- **Kubernetes**: Orchestrating containerized applications at scale.
-- **Terraform**: Infrastructure as Code (IaC) for cloud resource management.
-- **GitHub Actions**: Automating CI/CD pipelines for seamless deployments.
-
-
-
-
+- **Programming**: Python, SQL, Bash
+- **Cloud & Data**: Azure, AWS, GCP, Snowflake, Databricks
+- **Big Data & Orchestration**: Apache Spark, Apache Airflow
+- **DevOps & CI/CD**: Docker, Kubernetes, Terraform, GitHub Actions
 
 ## 📌 Featured Projects
 
-### 🏗️ End-to-End Data Pipeline using Apache Airflow & Snowflake
+### 🚀 Data Pipeline Automation (Airflow & Snowflake)
+- Designed an ETL pipeline using Airflow & Snowflake for large-scale data ingestion.
+- Automated deployment with Terraform & GitHub Actions.
 
-**Tech Stack:** Python, Apache Airflow, Snowflake, AWS S3
-
-- Built a **fully automated ETL pipeline** for ingesting and transforming large-scale datasets.
-- Implemented **orchestration using Airflow DAGs** and data warehousing in **Snowflake**.
-- Automated infrastructure deployment with **Terraform** and **GitHub Actions**.
-
-### 🚀 Real-Time Data Processing with Kafka & Spark Streaming
-
-**Tech Stack:** Python, Apache Kafka, Apache Spark, Azure Data Lake
-
-- Developed a **real-time data processing** pipeline for streaming event data.
-- Used **Kafka topics** for scalable message ingestion and **Spark Streaming** for transformations.
-- Stored processed data in **Azure Data Lake** for analytics.
+### ⚡ Real-Time Data Streaming (Kafka & Spark)
+- Developed a real-time data processing pipeline with Kafka & Spark Streaming.
+- Stored and analyzed processed data in Azure Data Lake.
 
 ### 🔄 CI/CD for Data Pipelines with Kubernetes
 
-**Tech Stack:** Kubernetes, Docker, GitHub Actions, Python, SQL
+**Tech Stack:** Kubernetes, Docker, GitHub Actions
 
 - Designed a **CI/CD workflow** to automate **data pipeline deployment** on Kubernetes.
 - Used **GitHub Actions** to trigger deployments and **Terraform** for infrastructure as code.
