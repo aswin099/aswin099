@@ -9,26 +9,16 @@ I'm a Data Engineer specializing in cloud-based ETL workflows, scalable data pip
 - **Programming**: Python, SQL, Bash
 - **Cloud & Data**: Azure, AWS, GCP, Snowflake, Databricks
 - **Big Data & Orchestration**: Apache Spark, Apache Airflow
-- **DevOps & CI/CD**: Docker, Kubernetes, Terraform, GitHub Actions
+- **DevOps & CI/CD**: Docker, Kubernetes, GitHub Actions
 
 ## 📌 Featured Projects
 
-### 🚀 Data Pipeline Automation (Airflow & Snowflake)
+### 🚀 Data Pipeline Automation
 
 - Designed an ETL pipeline using Airflow & Snowflake for large-scale data ingestion.
 - Automated deployment with Terraform & GitHub Actions.
-
-### ⚡ Real-Time Data Streaming (Spark)
-
 - Developed a real-time data processing pipeline with Kafka & Spark Streaming.
 - Stored and analyzed processed data in Azure Data Lake.
-
-### 🔄 CI/CD for Data Pipelines with Kubernetes
-
-**Tech Stack:** Kubernetes, Docker, GitHub Actions
-
-- Designed a **CI/CD workflow** to automate **data pipeline deployment** on Kubernetes.
-- Used **GitHub Actions** to trigger deployments and **Terraform** for infrastructure as code.
 
 ## 📫 Connect With Me
 
