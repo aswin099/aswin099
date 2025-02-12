@@ -11,13 +11,6 @@ I'm a Data Engineer specializing in cloud-based ETL workflows, scalable data pip
 - **Big Data & Orchestration**: Apache Spark, Apache Airflow
 - **DevOps & CI/CD**: Docker, Kubernetes, GitHub Actions
 
-### 🚀 Data Pipeline Automation
-
-- Designed an ETL pipeline using Airflow & Snowflake for large-scale data ingestion.
-- Automated deployment with Terraform & GitHub Actions.
-- Developed a real-time data processing pipeline with Kafka & Spark Streaming.
-- Stored and analyzed processed data in Azure Data Lake.
-
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aswin-ravichandran06/)
