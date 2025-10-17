@@ -6,10 +6,10 @@ I'm a Data Engineer specializing in cloud-based ETL workflows, scalable data pip
 
 ## ⚡ Skills & Technologies
 
-- **Programming**: Python, SQL, Bash
-- **Cloud & Data**: Azure, AWS, GCP, Snowflake, Databricks
+- **Programming**: Python, SQL
+- **Cloud & Data**: Azure, AWS, Snowflake, Databricks
 - **Big Data & Orchestration**: Apache Spark, Apache Airflow
-- **DevOps & CI/CD**: Docker, Kubernetes, GitHub Actions
+- **DevOps & CI/CD**: Docker, Kubernetes, Git
 
 ## 📫 Connect With Me
 
